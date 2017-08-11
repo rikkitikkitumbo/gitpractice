@@ -3,3 +3,5 @@ this is the first file of my project
 touched it  touched it again!!!!!!1
 
 bout to merge this into b2withsecondfile
+
+well.. merge is the wrong word i think? this is yet another commit.... and then fetching will add this commit?
