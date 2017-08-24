@@ -1,0 +1,2 @@
+/usr/bin/ar cr libvar.a  CMakeFiles/var.dir/greg.cpp.o
+/usr/bin/ranlib libvar.a

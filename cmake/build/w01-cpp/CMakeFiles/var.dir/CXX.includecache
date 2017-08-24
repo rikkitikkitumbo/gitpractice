@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jeff/Desktop/gitPractice/cmake/w01-cpp/var.cpp
+stdio.h
+-
+string
+-
+var.h
+/home/jeff/Desktop/gitPractice/cmake/w01-cpp/var.h
+
+/home/jeff/Desktop/gitPractice/cmake/w01-cpp/var.h
+string
+-
+

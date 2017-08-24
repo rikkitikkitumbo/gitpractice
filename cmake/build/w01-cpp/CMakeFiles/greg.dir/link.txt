@@ -1,0 +1,2 @@
+/usr/bin/ar cr libgreg.a  CMakeFiles/greg.dir/greg.cpp.o
+/usr/bin/ranlib libgreg.a

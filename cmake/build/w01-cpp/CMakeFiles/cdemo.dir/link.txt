@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/cdemo.dir/cdemo.c.o  -o ../../bin/cdemo  -L/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp -rdynamic -lm -Wl,-rpath,/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall    CMakeFiles/pointers.dir/pointers.cpp.o  -o pointers  -L/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp -rdynamic -lm -Wl,-rpath,/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp 

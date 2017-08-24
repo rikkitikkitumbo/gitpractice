@@ -1,0 +1,2 @@
+/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp/CMakeFiles/CMAKEDEMO.dir
+/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp/CMakeFiles/greg.dir

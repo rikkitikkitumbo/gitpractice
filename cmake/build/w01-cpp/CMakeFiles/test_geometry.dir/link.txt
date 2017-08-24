@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall    CMakeFiles/test_geometry.dir/test_geometry.cpp.o  -o ../../bin/test_geometry  -L/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp -rdynamic libgeometry.a -Wl,-rpath,/home/jeff/Desktop/gitPractice/cmake/build/w01-cpp 
