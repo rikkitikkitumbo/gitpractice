@@ -8,7 +8,7 @@ int main(void){
 	agreg.greet();
 	
 	agreg.setName("Jeff");
-	agreg.setAge(34);
+	agreg.setAge(304);
 	
 	agreg.greet();
 	
